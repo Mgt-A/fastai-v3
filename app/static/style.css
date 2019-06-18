@@ -18,14 +18,17 @@ body {
     font-size: 30px;
     margin-top: 1em;
     margin-bottom: 1em;
+    font: "Arial";
     color: #262626;
 }
 
 .content {
+    font: "Arial";
     margin-top: 10em;
 }
 
 .analyze {
+    font: "Arial";
     margin-top: 5em;
 }
 
